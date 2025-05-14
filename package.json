@@ -1,6 +1,6 @@
 {
   "name": "cozy-bar",
-  "version": "0.0.0-development",
+  "version": "22.1.0",
   "description": "cozy-bar.js library, a small lib provided by cozy-stack to inject the Cozy-bar component into each app",
   "main": "dist/index.js",
   "author": "Cozy Cloud <contact@cozycloud.cc> (https://cozy.io/)",
@@ -87,8 +87,8 @@
     "cozy-realtime": ">=4.0.5",
     "cozy-search": ">=0.4.0",
     "cozy-ui": ">=122.12.1",
-    "react": ">=16.10.1",
-    "react-dom": ">=16.10.1",
+    "react": ">=16.8",
+    "react-dom": ">=16.8",
     "react-router-dom": ">=6.14.2"
   }
 }
